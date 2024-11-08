@@ -1,0 +1,6 @@
+# Fichiers à ignorer
+.git
+node_modules
+vendor
+*.log
+
